@@ -1,0 +1,12 @@
++--------------------+--------------------------------------------+
+| TABLE_NAME         | TABLE_COMMENT                              |
++--------------------+--------------------------------------------+
+| decision_codes     |                                            |
+| energy_tariffs     | average gas price per year, currency units |
+| furnace_regime     | SCADA averages per melt                    |
+| furnaces           | melting furnaces                           |
+| maintenance_events |                                            |
+| melts              | one row per melt / production order        |
+| products           | frit products                              |
+| quality_lots       | QC decision per lot                        |
++--------------------+--------------------------------------------+
