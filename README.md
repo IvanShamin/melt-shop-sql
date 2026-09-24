@@ -1,6 +1,7 @@
 # Melt-shop SQL
 
 **Ivan Shamin** · [GitHub](https://github.com/IvanShamin) · [LinkedIn](https://www.linkedin.com/in/ivanshamin/) · [MIT licence](LICENSE)
+Companion repository: [glaze-bom-sql](https://github.com/IvanShamin/glaze-bom-sql) — recipes, chemistry, costing and supplier what-if.
 
 I wrote the originals of these queries while building a production-analytics
 module for a manufacturing plant, as its only data person. They are rebuilt
